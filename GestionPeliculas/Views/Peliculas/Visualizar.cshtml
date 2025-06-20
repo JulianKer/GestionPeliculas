@@ -1,0 +1,65 @@
+﻿@model List<GestionPeliculas.Data.EF.Pelicula>
+
+@{
+    ViewBag.Title = "Visualizar Películas";
+}
+
+<head>
+    <link rel="stylesheet" href="~/css/visualizar.css" />
+</head>
+
+@if (!String.IsNullOrEmpty(TempData["msj"] as String))
+{
+    <p class="alert alert-success">@TempData["msj"]</p>
+}
+
+
+<h2>Películas Registradas</h2>
+
+<form method="get" asp-action="Visualizar">
+    <label for="IdGenero">Filtrar por género:</label>
+    <select name="IdGenero" id="IdGenero" onchange="this.form.submit()">
+        <option value="">-- Todos los géneros --</option>
+        @foreach (var genero in ViewBag.Generos)
+        {
+            if (ViewBag.IdGenero != null && ViewBag.IdGenero.ToString() == genero.IdGenero.ToString())
+            {
+                <option value="@genero.IdGenero" selected>@genero.Nombre</option>
+            }
+            else
+            {
+                <option value="@genero.IdGenero">@genero.Nombre</option>
+            }
+        }
+    </select>
+</form>
+
+<br />
+
+<table border="1" cellpadding="6">
+    <thead>
+        <tr>
+            <th>Título</th>
+            <th>Año de Estreno</th>
+            <th>Género</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var pelicula in Model)
+        {
+            <tr>
+                <td>@pelicula.Titulo</td>
+                <td>@pelicula.AnioEstreno</td>
+                <td>@pelicula.IdGeneroNavigation.Nombre</td>
+                <td>
+                    <form asp-action="Eliminar" method="post" style="display:inline;">
+                        <input type="hidden" name="id" value="@pelicula.IdPelicula" />
+                        <button type="submit" onclick="return confirm('¿Seguro que desea eliminar esta película?')">Eliminar</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

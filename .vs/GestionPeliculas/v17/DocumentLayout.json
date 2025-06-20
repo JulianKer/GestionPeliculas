@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\germa\\source\\repos\\GestionPeliculas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87615624-0CC7-40BE-B068-E3103E541FD1}|GestionPeliculas\\GestionPeliculas.Web.csproj|c:\\users\\germa\\source\\repos\\gestionpeliculas\\gestionpeliculas\\views\\peliculas\\visualizar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87615624-0CC7-40BE-B068-E3103E541FD1}|GestionPeliculas\\GestionPeliculas.Web.csproj|solutionrelative:gestionpeliculas\\views\\peliculas\\visualizar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC82F61F-7625-4B35-92B0-AC770C65E513}|GestionPeliculas.Logica\\GestionPeliculas.Logica.csproj|c:\\users\\germa\\source\\repos\\gestionpeliculas\\gestionpeliculas.logica\\peliculaslogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC82F61F-7625-4B35-92B0-AC770C65E513}|GestionPeliculas.Logica\\GestionPeliculas.Logica.csproj|solutionrelative:gestionpeliculas.logica\\peliculaslogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC82F61F-7625-4B35-92B0-AC770C65E513}|GestionPeliculas.Logica\\GestionPeliculas.Logica.csproj|c:\\users\\germa\\source\\repos\\gestionpeliculas\\gestionpeliculas.logica\\generoslogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC82F61F-7625-4B35-92B0-AC770C65E513}|GestionPeliculas.Logica\\GestionPeliculas.Logica.csproj|solutionrelative:gestionpeliculas.logica\\generoslogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87615624-0CC7-40BE-B068-E3103E541FD1}|GestionPeliculas\\GestionPeliculas.Web.csproj|c:\\users\\germa\\source\\repos\\gestionpeliculas\\gestionpeliculas\\controllers\\peliculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87615624-0CC7-40BE-B068-E3103E541FD1}|GestionPeliculas\\GestionPeliculas.Web.csproj|solutionrelative:gestionpeliculas\\controllers\\peliculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Visualizar.cshtml",
+              "DocumentMoniker": "C:\\Users\\germa\\source\\repos\\GestionPeliculas\\GestionPeliculas\\Views\\Peliculas\\Visualizar.cshtml",
+              "RelativeDocumentMoniker": "GestionPeliculas\\Views\\Peliculas\\Visualizar.cshtml",
+              "ToolTip": "C:\\Users\\germa\\source\\repos\\GestionPeliculas\\GestionPeliculas\\Views\\Peliculas\\Visualizar.cshtml",
+              "RelativeToolTip": "GestionPeliculas\\Views\\Peliculas\\Visualizar.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T00:50:07.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PeliculasController.cs",
+              "DocumentMoniker": "C:\\Users\\germa\\source\\repos\\GestionPeliculas\\GestionPeliculas\\Controllers\\PeliculasController.cs",
+              "RelativeDocumentMoniker": "GestionPeliculas\\Controllers\\PeliculasController.cs",
+              "ToolTip": "C:\\Users\\germa\\source\\repos\\GestionPeliculas\\GestionPeliculas\\Controllers\\PeliculasController.cs",
+              "RelativeToolTip": "GestionPeliculas\\Controllers\\PeliculasController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T00:47:49.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenerosLogica.cs",
+              "DocumentMoniker": "C:\\Users\\germa\\source\\repos\\GestionPeliculas\\GestionPeliculas.Logica\\GenerosLogica.cs",
+              "RelativeDocumentMoniker": "GestionPeliculas.Logica\\GenerosLogica.cs",
+              "ToolTip": "C:\\Users\\germa\\source\\repos\\GestionPeliculas\\GestionPeliculas.Logica\\GenerosLogica.cs",
+              "RelativeToolTip": "GestionPeliculas.Logica\\GenerosLogica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T00:47:35.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PeliculasLogica.cs",
+              "DocumentMoniker": "C:\\Users\\germa\\source\\repos\\GestionPeliculas\\GestionPeliculas.Logica\\PeliculasLogica.cs",
+              "RelativeDocumentMoniker": "GestionPeliculas.Logica\\PeliculasLogica.cs",
+              "ToolTip": "C:\\Users\\germa\\source\\repos\\GestionPeliculas\\GestionPeliculas.Logica\\PeliculasLogica.cs",
+              "RelativeToolTip": "GestionPeliculas.Logica\\PeliculasLogica.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T00:46:19.048Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

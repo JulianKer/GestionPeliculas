@@ -1,0 +1,14 @@
+C:\Users\germa\source\repos\GestionPeliculas\GestionPeliculas.Data\bin\Debug\net8.0\GestionPeliculas.Data.deps.json
+C:\Users\germa\source\repos\GestionPeliculas\GestionPeliculas.Data\bin\Debug\net8.0\GestionPeliculas.Data.runtimeconfig.json
+C:\Users\germa\source\repos\GestionPeliculas\GestionPeliculas.Data\bin\Debug\net8.0\GestionPeliculas.Data.dll
+C:\Users\germa\source\repos\GestionPeliculas\GestionPeliculas.Data\bin\Debug\net8.0\GestionPeliculas.Data.pdb
+C:\Users\germa\source\repos\GestionPeliculas\GestionPeliculas.Data\obj\Debug\net8.0\GestionPeliculas.Data.csproj.AssemblyReference.cache
+C:\Users\germa\source\repos\GestionPeliculas\GestionPeliculas.Data\obj\Debug\net8.0\GestionPeliculas.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\germa\source\repos\GestionPeliculas\GestionPeliculas.Data\obj\Debug\net8.0\GestionPeliculas.Data.AssemblyInfoInputs.cache
+C:\Users\germa\source\repos\GestionPeliculas\GestionPeliculas.Data\obj\Debug\net8.0\GestionPeliculas.Data.AssemblyInfo.cs
+C:\Users\germa\source\repos\GestionPeliculas\GestionPeliculas.Data\obj\Debug\net8.0\GestionPeliculas.Data.csproj.CoreCompileInputs.cache
+C:\Users\germa\source\repos\GestionPeliculas\GestionPeliculas.Data\obj\Debug\net8.0\GestionPeliculas.Data.dll
+C:\Users\germa\source\repos\GestionPeliculas\GestionPeliculas.Data\obj\Debug\net8.0\refint\GestionPeliculas.Data.dll
+C:\Users\germa\source\repos\GestionPeliculas\GestionPeliculas.Data\obj\Debug\net8.0\GestionPeliculas.Data.pdb
+C:\Users\germa\source\repos\GestionPeliculas\GestionPeliculas.Data\obj\Debug\net8.0\GestionPeliculas.Data.genruntimeconfig.cache
+C:\Users\germa\source\repos\GestionPeliculas\GestionPeliculas.Data\obj\Debug\net8.0\ref\GestionPeliculas.Data.dll

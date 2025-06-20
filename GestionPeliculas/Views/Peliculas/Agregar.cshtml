@@ -1,0 +1,45 @@
+﻿@using GestionPeliculas.Data.EF
+
+@model GestionPeliculas.Web.Models.PeliculasModel;
+
+@{
+    ViewBag.Title = "Agregar Película";
+}
+
+<head>
+    <link rel="stylesheet" href="~/css/agregar.css" />
+</head>
+
+@if (!String.IsNullOrEmpty(TempData["msj"] as String))
+{
+    <p class="alert alert-success">@TempData["msj"]</p>
+}
+
+
+<h2>Agregar Película</h2>
+
+<form asp-action="Agregar" method="post">
+    <div>
+        <label for="Titulo">Título:</label><br>
+        <input type="text" id="Titulo" name="Titulo" required />
+    </div>
+
+    <div>
+        <label for="AnioEstreno">Año de Estreno:</label><br>
+        <input type="number" id="AnioEstreno" name="AnioEstreno" min="1900" max="2100" required />
+    </div>
+
+    <div>
+        <label for="IdGenero">Género:</label><br>
+        <select id="IdGenero" name="IdGenero" required>
+            <option value="">-- Seleccione un género --</option>
+            @foreach (var genero in ViewBag.Generos)
+            {
+                <option value="@genero.IdGenero">@genero.Nombre</option>
+            }
+        </select>
+    </div>
+
+    <br>
+    <button type="submit">Registrar Película</button>
+</form>

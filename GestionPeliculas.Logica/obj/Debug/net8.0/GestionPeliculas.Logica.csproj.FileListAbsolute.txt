@@ -1,0 +1,15 @@
+C:\Users\germa\source\repos\GestionPeliculas\GestionPeliculas.Logica\bin\Debug\net8.0\GestionPeliculas.Logica.deps.json
+C:\Users\germa\source\repos\GestionPeliculas\GestionPeliculas.Logica\bin\Debug\net8.0\GestionPeliculas.Logica.dll
+C:\Users\germa\source\repos\GestionPeliculas\GestionPeliculas.Logica\bin\Debug\net8.0\GestionPeliculas.Logica.pdb
+C:\Users\germa\source\repos\GestionPeliculas\GestionPeliculas.Logica\bin\Debug\net8.0\GestionPeliculas.Data.dll
+C:\Users\germa\source\repos\GestionPeliculas\GestionPeliculas.Logica\bin\Debug\net8.0\GestionPeliculas.Data.pdb
+C:\Users\germa\source\repos\GestionPeliculas\GestionPeliculas.Logica\obj\Debug\net8.0\GestionPeliculas.Logica.csproj.AssemblyReference.cache
+C:\Users\germa\source\repos\GestionPeliculas\GestionPeliculas.Logica\obj\Debug\net8.0\GestionPeliculas.Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\germa\source\repos\GestionPeliculas\GestionPeliculas.Logica\obj\Debug\net8.0\GestionPeliculas.Logica.AssemblyInfoInputs.cache
+C:\Users\germa\source\repos\GestionPeliculas\GestionPeliculas.Logica\obj\Debug\net8.0\GestionPeliculas.Logica.AssemblyInfo.cs
+C:\Users\germa\source\repos\GestionPeliculas\GestionPeliculas.Logica\obj\Debug\net8.0\GestionPeliculas.Logica.csproj.CoreCompileInputs.cache
+C:\Users\germa\source\repos\GestionPeliculas\GestionPeliculas.Logica\obj\Debug\net8.0\GestionP.936A8DE4.Up2Date
+C:\Users\germa\source\repos\GestionPeliculas\GestionPeliculas.Logica\obj\Debug\net8.0\GestionPeliculas.Logica.dll
+C:\Users\germa\source\repos\GestionPeliculas\GestionPeliculas.Logica\obj\Debug\net8.0\refint\GestionPeliculas.Logica.dll
+C:\Users\germa\source\repos\GestionPeliculas\GestionPeliculas.Logica\obj\Debug\net8.0\GestionPeliculas.Logica.pdb
+C:\Users\germa\source\repos\GestionPeliculas\GestionPeliculas.Logica\obj\Debug\net8.0\ref\GestionPeliculas.Logica.dll
